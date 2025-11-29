@@ -13,10 +13,7 @@ A Python-based command-line application to manage library books using:
 - Robust error handling
 - Organized package structure
 
-## Installation
-pip install -r requirements.txt
-
 ## Run the Program
-python cli/main.py
+python -m cli.main
 
 
