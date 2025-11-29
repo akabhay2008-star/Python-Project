@@ -1,0 +1,11 @@
+Calorie Report - 2025-11-10 19:51:06.024400
+
+Meal Name	Calories
+--------------------------
+Breakfast	250.0
+Lunch	350.0
+Dinner	500.0
+--------------------------
+Total:	1100.0
+Average:	366.67
+Status: Within Limit
