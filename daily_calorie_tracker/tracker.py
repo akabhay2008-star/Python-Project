@@ -2,7 +2,9 @@
 # Date : 10th November 2025
 # Project Title: Daily Calorie Tracker
 
+print("-------------------------------------")
 print("Welcome to the Daily Calorie Tracker!")
+print("-------------------------------------")
 
 # Calorie Tracker Program
 
@@ -72,3 +74,4 @@ if save.lower() == "yes":
     print("Report saved as 'calorie_log.txt'")
 else:
     print("Report not saved.")
+
