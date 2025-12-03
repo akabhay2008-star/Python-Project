@@ -1,6 +1,6 @@
-# ============================================================
-# ENERGY ANALYSIS PROJECT – FULL SCRIPT (BEGINNER-FRIENDLY)
-# ============================================================
+# ======================================
+# ENERGY ANALYSIS PROJECT 
+# ======================================
 
 import pandas as pd
 from pathlib import Path
@@ -180,3 +180,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
