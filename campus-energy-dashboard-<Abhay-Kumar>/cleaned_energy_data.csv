@@ -1,0 +1,16 @@
+timestamp,kwh,building
+2025-01-01 00:00:00,12,buildingA
+2025-01-01 01:00:00,15,buildingA
+2025-01-01 02:00:00,14,buildingA
+2025-01-02 00:00:00,16,buildingA
+2025-01-02 01:00:00,18,buildingA
+2025-01-01 00:00:00,20,buildingB
+2025-01-01 01:00:00,22,buildingB
+2025-01-01 02:00:00,21,buildingB
+2025-01-02 00:00:00,19,buildingB
+2025-01-02 01:00:00,23,buildingB
+2025-01-01 00:00:00,8,buildingC
+2025-01-01 01:00:00,9,buildingC
+2025-01-01 02:00:00,7,buildingC
+2025-01-02 00:00:00,10,buildingC
+2025-01-02 01:00:00,12,buildingC
